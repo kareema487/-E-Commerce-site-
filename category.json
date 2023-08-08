@@ -1,0 +1,104 @@
+[{
+        "categoryId": 1,
+        "id": 1,
+        "title": "suit (man)",
+        "src": "assets/img/shop_07.jpg",
+        "price":"122.0"
+    },
+    {
+        "categoryId": 1,
+        "id": 2,
+        "title": "shoes for man",
+        "src": "assets/img/shop_04.jpg",
+        "price":"200.0"
+    },
+    {
+        "categoryId": 1,
+        "id": 3,
+        "title": "shoes (man)",
+        "src": "assets/img/shop_05.jpg",
+        "price":"400.0"
+    },
+    {
+        "categoryId": 1,
+        "id": 4,
+        "title": "shirt (man)",
+        "src": "assets/img/shop_04.jpg",
+        "price":"900.0"
+    },
+    {
+        "categoryId": 1,
+        "id": 5,
+        "title": "brand",
+        "src": "assets/img/shop_07.jpg",
+        "price":"12.0",
+        "stars": "5"
+    },
+   
+    {
+        "categoryId": 2,
+        "id": 1,
+        "title": "Shoes 1",
+        "src": "assets/img/shop_11.jpg",
+        "price":"208.0"
+    },
+    {
+        "categoryId": 2,
+        "id": 2,
+        "title": "Glasses 1",
+        "src": "assets/img/shop_10.jpg",
+        "price":"60.0"
+    },
+    {
+        "categoryId": 2,
+        "id": 3,
+        "title": "Glasses 2",
+        "src": "assets/img/shop_09.jpg",
+        "price":"80.0",
+        "stars": "4"
+    },
+    {
+        "categoryId": 2,
+        "id": 4,
+        "title": "Watch (woman)",
+        "src": "assets/img/shop_08.jpg",
+        "price":"122.0"
+    },
+   
+    {
+        "categoryId": 3,
+        "id": 1,
+        "title": "Watch (man)",
+        "src": "assets/img/feature_prod_02.jpg",
+        "price":"2900.0"
+    },
+    {
+        "categoryId": 3,
+        "id": 2,
+        "title": "jewelry 2",
+        "src": "assets/img/category_img_01.jpg",
+        "price":"9800.0"
+    },
+    {
+        "categoryId": 3,
+        "id": 3,
+        "title": "jewelry 3",
+        "src": "assets/img/category_img_03.jpg",
+        "price":"8970.0"
+    },
+    {
+        "categoryId": 3,
+        "id": 4,
+        "title": "jewelry 4",
+        "src": "assets/img/feature_prod_03.jpg",
+        "price":"5490.0"
+    },
+    {
+        "categoryId": 3,
+        "id": 5,
+        "title": "jewelry 5",
+        "src": "assets/img/feature_prod_01.jpg",
+        "stars": "5"
+    }
+    
+]
